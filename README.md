@@ -1,16 +1,13 @@
-### Hi there 👋
+<img src="Hi.gif"></img>
 
-<!--
-**atarax665/atarax665** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Abhinav Anand
+#### Pythoneer/ Web dev/ ML enthusiast
+- 🔭 I’m currently working on an python project.
+- 🌱 I’m currently learning flask.
+- 👯 I’m looking to collaborate on Algorithms and python codes. 
+- 🤔 I’m looking for help with firebase and RestAPI.
+- 💬 Ask me about songs and novels.
+- 📫 How to reach me: [Abhinav Anand](atarax665.github.io)
+- ⚡ Fun fact: I run on caffeine and songs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
