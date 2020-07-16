@@ -1,4 +1,4 @@
-<img src="Hi.gif"></img>
+![Hi](https://github.com/atarax665/atarax665/blob/master/Hi.gif)
 
 
 # Abhinav Anand
