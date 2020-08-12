@@ -2,8 +2,8 @@
 
 # Abhinav Anand
 #### Pythoneer/ Web dev/ ML enthusiast
-- 🔭 I’m currently working on an python project.
-- 🌱 I’m currently learning flask.
+- 🔭 I’m currently working on a python project.
+- 🌱 I’m currently learning Django.
 - 👯 I’m looking to collaborate on Algorithms and python codes. 
 - 🤔 I’m looking for help with firebase and RestAPI.
 - 💬 Ask me about songs and novels.
