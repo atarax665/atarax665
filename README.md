@@ -9,6 +9,8 @@
 - 💬 Ask me about songs and novels.
 - 📫 How to reach me: [Abhinav Anand](atarax665.github.io)
 - ⚡ Fun fact: I run on caffeine and songs.
-
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=atarax665&count_private=true&include_all_commits=true&show_icons=true&title_color=0366d6&icon_color=0366d6&text_color=24292e&bg_color=fff" />
+</p>
 <p><img src="https://komarev.com/ghpvc/?username=atarax665" alt="counter" /></p>
 
