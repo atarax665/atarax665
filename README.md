@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on DS/Algo and python projects. 
 - 🤔 I’m looking for help with firebase and RestAPI.
 - 💬 Ask me about songs and novels.
-- 📫 How to reach me: [Abhinav Anand](atarax665.github.io)
+- 📫 How to reach me: [Abhinav Anand](atarax665.github.io) | [Email](manasgmishra@gmail.com)
 - ⚡ Fun fact: I run on caffeine and songs.
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=atarax665&count_private=true&include_all_commits=true&show_icons=true&title_color=0366d6&icon_color=0366d6&text_color=24292e&bg_color=fff" />
