@@ -2,10 +2,10 @@
 
 # Abhinav Anand
 #### Pythoneer/ Web dev/ ML enthusiast
-- 🔭 I’m currently working on a python project.
-- 🌱 I’m currently learning Django.
-- 👯 I’m looking to collaborate on DS/Algo and python projects. 
-- 🤔 I’m looking for help with firebase and RestAPI.
+- 🔭 I’m currently working on a building some cool APIs.
+- 🌱 I’m currently learning Node.js and React.
+- 👯 I’m looking to collaborate on flask, django and Node.js backend projects. 
+- 🤔 I’m looking for help with Pytorch and React.
 - 💬 Ask me about songs and novels.
 - 📫 How to reach me: [Abhinav Anand](atarax665.github.io)
 - ⚡ Fun fact: I run on caffeine and songs.
