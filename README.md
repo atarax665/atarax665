@@ -2,7 +2,7 @@
 
 # Abhinav Anand
 #### Pythoneer/ Web dev/ ML enthusiast
-- 🔭 I’m currently working on a building some cool APIs.
+- 🔭 I’m currently working on a building some cool APIs and honing my CP skills.
 - 🌱 I’m currently learning Node.js and React.
 - 👯 I’m looking to collaborate on flask, django and Node.js backend projects. 
 - 🤔 I’m looking for help with Pytorch and React.
