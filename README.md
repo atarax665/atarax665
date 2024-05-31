@@ -1,16 +1,21 @@
-<img src="https://github.com/atarax665/atarax665/blob/master/Hi.gif" alt="alt text" width="100" height="100" />
-
-# Abhinav Anand
-#### Pythoneer/ Web dev/ ML enthusiast
-- 🔭 I’m currently working on a building some cool APIs and honing my CP skills.
-- 🌱 I’m currently learning Node.js and React.
-- 👯 I’m looking to collaborate on flask, django and Node.js backend projects. 
-- 🤔 I’m looking for help with Pytorch and React.
-- 💬 Ask me about songs and novels.
-- 📫 How to reach me: [Abhinav Anand](atarax665.github.io)
-- ⚡ Fun fact: I run on caffeine and songs.
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=atarax665&count_private=true&include_all_commits=true&show_icons=true&title_color=0366d6&icon_color=0366d6&text_color=24292e&bg_color=fff" />
+<p align="center">
+    <img src="https://github.com/atarax665/atarax665/blob/master/logo.png" alt="Abhinav Anand, Fullstack Developer" width="500" height="500" />
 </p>
-<p><img src="https://komarev.com/ghpvc/?username=atarax665" alt="counter" /></p>
 
+<div align="center">
+    <h3>Jack of all trades, master of some.</h3>
+</div>
+  <div align="left">
+    <div>🔭 Currently exploring distributed systems and internals of huge systems.</div>
+    <div>🌱 Fluent in Go, python, and Vue.js</div>
+    <div>👯 I’m looking to collaborate on freelance gigs.</div>
+    <div>💬 Do you love reading tech blogs? I love writing them. Read my blogs on <a href="https://medium.com/@atarax">Medium</a></div>
+    <div>📫 How to reach me: <a href="mailto:itsatarax@gmail.com">Drop a mail</a></div>
+    <div>⚡ Fun fact: I experiment with ML models and LLMs when bored.</div>
+    <div>🧐 Research Paper: <a href="https://ijritcc.org/index.php/ijritcc/article/view/7957">The DistilBERT Model: A Promising Approach to Improve Machine Reading Comprehension Models</a></div>
+  </div>
+    <br>
+    <p align="left">
+        <img src="https://github-readme-stats.vercel.app/api?username=atarax665&count_private=true&include_all_commits=true&show_icons=true&title_color=6c645c&icon_color=6c645c&text_color=24292e&bg_color=fff" alt="GitHub Stats"/>
+    </p>
+    <p><img src="https://komarev.com/ghpvc/?username=atarax665" alt="counter" /></p>
