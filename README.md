@@ -1,13 +1,13 @@
 <p align="center">
-    <img src="https://github.com/atarax665/atarax665/blob/master/logo.png" alt="Abhinav Anand, Fullstack Developer" width="500" height="500" />
+    <img src="https://github.com/atarax665/atarax665/blob/master/abhinav_anand.png" alt="Abhinav Anand, Fullstack Developer" width="500" height="500" />
 </p>
 
 <div align="center">
     <h3>Jack of all trades, master of some.</h3>
 </div>
   <div align="left">
-    <div>🔭 Currently exploring distributed systems and internals of huge systems.</div>
-    <div>🌱 Fluent in Go, python, and Vue.js</div>
+    <div>🔭 Currently building scalabe quick commerce tech.</div>
+    <div>🌱 Fluent in Go, Java, Python, React, and Vue.js</div>
     <div>👯 I’m looking to collaborate on freelance gigs.</div>
     <div>💬 Do you love reading tech blogs? I love writing them. Read my blogs on <a href="https://medium.com/@atarax">Medium</a></div>
     <div>📫 How to reach me: <a href="mailto:itsatarax@gmail.com">Drop a mail</a></div>
